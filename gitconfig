@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = liam.baker2310@gmail.com
+	email = liam@xenon.io
 	name = Liam Baker
